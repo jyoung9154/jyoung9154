@@ -1,13 +1,7 @@
 # Welcome To My GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=jyoung9154&repo=Coding_Study&count_private=true&show_icons=true&theme=calm)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jyoung9154&repo=Coding_Study&layout=compact&theme=calm)
-
-
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ToyProject-Factory&repo=coutalk&count_private=true&show_icons=true&theme=calm)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=ToyProject-Factory&repo=coutalk&layout=compact&theme=calm)
-
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=itbank-jobs&repo=project&count_private=true&show_icons=true&theme=calm&include_all_commits=true&)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=jyoung9154&repo=Coding_Study&count_private=true&show_icons=true&theme=calm&hide_rank=true&hide=stars,prs)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=itbank-jobs&repo=project&count_private=true&show_icons=true&theme=calm&include_all_commits=true&hide_rank=true&hide=stars,prs)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=itbank-jobs&repo=project&layout=compact&theme=calm)
 
 ## 🙋‍♂️ Personal Info
@@ -45,9 +39,4 @@
 <span><img src="https://img.shields.io/badge/SVN-0052cc?style=flat&logo=svn&logoColor=white"/></span><br/>
 - Communication :
 <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
-
-##
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jyoung9154&repo=Coding_Study)](https://github.com/jyoung9154/Coding_Study)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ToyProject-Factory&repo=coutalk)](https://github.com/ToyProject-Factory/coutalk)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itbank-jobs&repo=project)](https://github.com/itbank-jobs/project)
 
