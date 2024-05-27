@@ -1,7 +1,7 @@
 # Welcome To My GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=jyoung9154&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jyoung9154&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=jyoung9154&count_private=true&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jyoung9154&layout=compact&theme=calm)
 
 ## 🙋‍♂️ Personal Info
 - Park Jae Young
@@ -38,3 +38,9 @@
 <span><img src="https://img.shields.io/badge/SVN-0052cc?style=flat&logo=svn&logoColor=white"/></span><br/>
 - Communication :
 <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
+
+##
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jyoung9154&repo=Coding_Study)](https://github.com/jyoung9154/Coding_Study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ToyProject-Factory&repo=coutalk)](https://github.com/ToyProject-Factory/coutalk)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itbank-jobs&repo=project)](https://github.com/itbank-jobs/project)
+
