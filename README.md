@@ -1,7 +1,14 @@
 # Welcome To My GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=jyoung9154&count_private=true&show_icons=true&theme=calm)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jyoung9154&layout=compact&theme=calm)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=jyoung9154&repo=Coding_Study&count_private=true&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jyoung9154&repo=Coding_Study&layout=compact&theme=calm)
+
+
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ToyProject-Factory&repo=coutalk&count_private=true&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=ToyProject-Factory&repo=coutalk&layout=compact&theme=calm)
+
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=itbank-jobs&repo=project&count_private=true&show_icons=true&theme=calm&include_all_commits=true&)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=itbank-jobs&repo=project&layout=compact&theme=calm)
 
 ## 🙋‍♂️ Personal Info
 - Park Jae Young
