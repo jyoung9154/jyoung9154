@@ -4,13 +4,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=itbank-jobs&repo=project&count_private=true&show_icons=true&theme=calm&include_all_commits=true&hide_rank=true&hide=stars,prs)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=itbank-jobs&repo=project&layout=compact&theme=calm)
 
-## 🙋‍♂️ Personal Info
+## 🙋‍♂️ 개인정보
 - Park Jae Young
 - Java Full-Stack Developer & Data Engineer
 - World Traveler ( 6 Continents and Approximately 40 Countries / 550 Days)
+- Discharged from Headquarters of Intelligence Detachment(HID) 
 - jyoung_9154@naver.com
 
-## 🔨 Technology Stacks
+## 🔨 기술스택
 - Frontend :
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
@@ -40,3 +41,5 @@
 - Communication :
 <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
 
+## 📝 포트폴리오 웹사이트 - <a href="https://jyoung9154.github.io">Here</a>
+[<img width="1206" src="https://github.com/jyoung9154/jyoung9154/assets/38848601/0b1a8958-6ed9-4f89-b24a-8201a3990b38">](https://jyoung9154.github.io)
