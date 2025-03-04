@@ -25,7 +25,7 @@
 - Backend :
 <span><img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-8bc34b?style=flat&logo=spring&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Spring1Boot-41AD48?style=flat&logo=springboot&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/SpringBoot-41AD48?style=flat&logo=springboot&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JPA-FFCA28?style=flat&logo=JPA&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Linux-3776AB?style=flat&logo=linux&logoColor=white"/></span>
 
