@@ -1,8 +1,7 @@
 # 행복한 하루 되세요!
-<div align="center">
-  <img src="https://github-readme-stats-sand-six-91.vercel.app/api?username=jyoung9154&show_icons=true&theme=calm&count_private=true&hide=stars,prs" height="170"/>
-  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jyoung9154&layout=compact&theme=calm" height="170"/>
-</div>
+
+![JaeYoung's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=jyoung9154&show_icons=true&theme=calm&count_private=true&hide=stars,prs)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=jyoung9154&layout=compact&theme=calm)
 
 ## 🙋‍♂️ 개인정보
 - 박재영 ( Park Jae Young )
