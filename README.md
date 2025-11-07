@@ -7,8 +7,8 @@
 - 박재영 ( Park Jae Young )
 - **Java Full-Stack Developer & Data Engineer**
   
-- 프론트부터 백엔드, 배포 및 데이터 처리까지 **전방위 개발 가능**
-- 전자결재/메일 시스템 개발, 마이그레이션 등 **실전 경험** 중심의 문제 해결자
+- 프론트부터 백엔드, 배포 및 데이터 처리까지 ** 풀스택 개발 가능**
+- 전자결재/메일 시스템 개발, AI MCP 개발, DB & File 마이그레이션 등 **실전 경험** 중심의 문제 해결자
 - 🌍 세계 6대륙 40여 개국, 550일 여행 경험으로 **도전과 적응력** 보유
 - 🪖 HID(정보사령부) 복무 — **신속한 판단 & 실행력**
 
@@ -32,6 +32,7 @@
 <span><img src="https://img.shields.io/badge/JPA-FFCA28?style=flat&logo=JPA&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Linux-3776AB?style=flat&logo=linux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Kafka-231f20?style=flat&logo=apachekafka&logoColor=white"/></span>
+<span><img src="https://badge.mcpx.dev" title="MCP"/></span>
 
 - Deployment :
 <span><img src="https://img.shields.io/badge/Redis-232f3e?style=flat&logo=redis&logoColor=white"/></span>
@@ -57,8 +58,8 @@
 
 ### 📌 메일 시스템 (B2C)
 - **기간** : 2024.07 ~ 
-- **기술스택** : Java, Spring Boot, React, JPA, Redis, k8s, docker, kafka, ES
-- **담당 역할** : 메일(Frontend, Backend) 개발 및 API 연동, 유지보수 자동화 도구 개발, SMTP,POP,IMAP 개발 및 보안인증(SSL) 자동화 개발
+- **기술스택** : Java, Spring Boot, React, JPA, Redis, k8s, docker, kafka, ES, AI MCP
+- **담당 역할** : 메일(Frontend, Backend) 개발 및 AI MCP 연동, 유지보수 자동화 도구 개발, SMTP,POP,IMAP 개발 및 보안인증(SSL) 자동화 개발
 
 ### 📌 지도 마커 공유 앱
 - **기간** : 2025.03 ~ 
