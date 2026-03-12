@@ -110,7 +110,7 @@
     - **수익화 모델 통합**: 콘텐츠 키워드 기반 Coupang Affiliate 상품 자동 매칭 시스템으로 서비스 운영 수익화 기반 마련.
 ---
 
-## 📝 포트폴리오 웹사이트 - <a href="https://jyoung9154.github.io">Here</a>
+## 📝 포트폴리오 - <a href="https://jyoung9154.github.io">Here</a>
 [<img width="1206" src="https://github.com/jyoung9154/jyoung9154/assets/38848601/0b1a8958-6ed9-4f89-b24a-8201a3990b38">](https://jyoung9154.github.io)
 ## 📝 블로그 - <a href="https://velog.io/@jyoung9154/repositioning">Here</a> 
 [<img width="1081" alt="스크린샷 2024-05-30 오후 7 42 28" src="https://github.com/jyoung9154/jyoung9154/assets/38848601/17e0ce7c-2eba-4169-ba7b-2469f0c631a0">](https://velog.io/@jyoung9154)
