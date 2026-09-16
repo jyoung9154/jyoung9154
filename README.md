@@ -88,7 +88,7 @@
 
 ## 💼 주요 프로젝트 경험
 
-### 🤖 JIRA-AI — 이슈 자동 분석·업무 자동화 AI 시스템 (사내 단독 개발)
+### 🤖 JIRA-AI — 이슈 자동 분석·업무 자동화 AI 시스템 (1인 개발 · 운영중)
 - **기간** : 2026.04 ~ 현재 (고도화 진행 중)
 - **기술스택** : Java 17, Spring Boot 3, LangGraph4j, Spring AI, Azure OpenAI, MCP, Kafka, Redis, MariaDB/Flyway, React 18, TypeScript
 - **담당 역할** : 기획, 설계, 개발 단독 수행. AI 코딩 도구 사용 사실은 커밋 공동 저자로 기록
@@ -102,7 +102,7 @@
 - **미측정 항목** : 답변 정확도 개선폭, 담당자 처리시간 단축
 
 ### 🧩 IssueFlow — 범용 워크플로 엔진
-- **기간** : 2026.09 ~ (로컬 개발 단계)
+- **기간** : 2026.09 ~ (1인 개발)
 - **기술스택** : Java 17, Spring Boot, PostgreSQL/Flyway, MCP, React 18, @xyflow/react
 - **개요** : JIRA-AI 개발 중 도구가 늘 때마다 코드가 증가하는 구조가 병목이라 판단해 착수. 노드 그래프 정의만으로 Jira 조회·조건 분기·MCP 도구가 조합 실행되고 승인·예약·비밀은 엔진이 공통 책임지는 구조. 서버 선언 도구를 읽는 `mcp.tool` 노드(readOnlyHint 없으면 dry-run), step·token·cost 예산 상한, AES-GCM 비밀 저장, 서명 POST 승인까지 구현
 
@@ -110,7 +110,7 @@
 - **기간** : 2024.07 ~ 2026.08 (메일팀)
 - **기술스택** : Java, Spring Boot, 전자정부 프레임워크, MyBatis, MariaDB, Redis, Kafka, Elasticsearch/OpenSearch, SMTP/IMAP/POP3, Kubernetes, S3, React, Webpack 5
 - **담당 역할** : 게이트웨이, 업무 서버, SMTP/IMAP/POP3 엔진 3계층과 React 마이크로프런트 개발
-- **한 일** : 컨트롤러 업무 로직의 서비스 계층 분리, Kafka 기반 발송결과 추적과 보낸메일함 노출, 급증 발송 계정 조회, 중지 가능한 대량 삭제 잡, MCP 게이트웨이를 통한 A10.ONE 에이전트의 메일 조회, AI 내부유출 검증의 발송 승인 연결, 메일엔진 SSL 인증서 자동 반영, 다중 스레드 공유 Cipher 격리, 발송 후 취소 가능한 대기발송 UI 개발. GitLab authored MR 80건 중 74건 머지
+- **한 일** : 컨트롤러 업무 로직의 서비스 계층 분리, Kafka 기반 발송결과 추적과 보낸메일함 노출, 급증 발송 계정 조회, 중지 가능한 대량 삭제 잡, MCP 게이트웨이를 통한 A10.ONE 에이전트의 메일 조회, AI 내부유출 검증의 발송 승인 연결, 메일엔진 SSL 인증서 자동 반영, 다중 스레드 공유 Cipher 격리, 발송 후 취소 가능한 대기발송 UI 개발
 
 ### 📄 전자결재 시스템 (B2B)
 - **기간** : 2018.09 ~ 2022.06 (커밋이 남은 기간은 2019.11 ~ 2022.06)
