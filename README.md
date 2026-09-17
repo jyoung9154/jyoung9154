@@ -190,8 +190,8 @@
 - **github-repo-finder-mcp** — 프로젝트를 분석해 필요한 GitHub 저장소를 찾아주는 MCP 서버. IDE별 설정을 스크립트 한 줄로 구성 · https://github.com/jyoung9154/github-repo-finder-mcp
 ---
 
-## 📝 포트폴리오 - <a href="https://jyoung9154.github.io/">Here</a>
-<img width="1121" height="747" alt="image" src="https://github.com/user-attachments/assets/e6273100-40a0-4d5e-95ce-4b8d6838d29b" />
+## 📝 이력서 & 포트폴리오 - <a href="https://jyoung9154.github.io/">Here</a>
+<img width="1121" height="747" alt="image" src="https://github.com/user-attachments/assets/e6273100-40a0-4d5e-95ce-4b8d6838d29b" />(https://jyoung9154.github.io/)
 - 📄 이력서 : https://jyoung9154.github.io/
 - 🗺️ 포트폴리오 (구조도·시퀀스·상태도) : https://jyoung9154.github.io/portfolio-v3.html
 - 🤖 JIRA-AI 시스템 프리뷰 : https://jyoung9154.github.io/previews/jira-ai.html
