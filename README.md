@@ -191,9 +191,9 @@
 ---
 
 ## 📝 포트폴리오 - <a href="https://jyoung9154.github.io/">Here</a>
-
-- 📄 상세 이력서 (첫 화면) : https://jyoung9154.github.io/
-- 🗺️ 흐름도 포트폴리오 (구조도·시퀀스·상태도) : https://jyoung9154.github.io/portfolio-v3.html
+<img width="1121" height="747" alt="image" src="https://github.com/user-attachments/assets/e6273100-40a0-4d5e-95ce-4b8d6838d29b" />
+- 📄 이력서 : https://jyoung9154.github.io/
+- 🗺️ 포트폴리오 (구조도·시퀀스·상태도) : https://jyoung9154.github.io/portfolio-v3.html
 - 🤖 JIRA-AI 시스템 프리뷰 : https://jyoung9154.github.io/previews/jira-ai.html
 
 ## 📝 블로그 - <a href="https://velog.io/@jyoung9154/repositioning">Here</a> 
